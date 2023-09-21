@@ -1,0 +1,551 @@
+@charset="UTF-8";
+
+body {
+	background-color:#FFFF99;
+	width:1440px;
+	height:1000px;
+	margin:0;
+}
+
+.rogo_box {
+	width: 1440px;
+	height: 50px;
+	background-color: #00FFFF;
+	margin-left:0;
+}
+
+.rogo_box a {
+	text-decoration:none;
+	color:black;
+}
+
+.rogo_box h3{
+	font-size:15px;
+	margin:0;
+	padding:15px 0 10px 635px;
+	color:#000000;
+}
+
+.header img {
+	width:1440px;
+	height:500px;
+	margin:0 ;
+}
+
+.footer {
+	width: 1440px;
+	height: 50px;
+	background-color:#00FFFF;
+	margin-left:0;
+}
+
+.insert_new {
+	margin-left:480px;
+}
+
+.login_box {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 600px;
+    height: 400px;
+	margin: 150px 420px 340px;
+	border-radius:20px;
+}
+
+.login_box h3{
+	margin-left:110px;
+	margin-top:40px;
+	margin-bottom:30px;
+	margin:40px 250px 30px 265px;
+}
+
+#email {
+	width:400px;
+}
+
+#password {
+	width:400px;
+}
+
+#userid {
+	width:400px;
+}
+
+#name {
+	width:400px;
+}
+
+#send {
+	margin-left:220px;
+	margin-bottom:20px;
+}
+
+.login_email {
+	margin:50px 100px;
+}
+
+.login_password {
+	margin:0 100px 45px 100px;
+}
+
+.login {
+	margin-left:480px;
+	margin-bottom:15px;
+}
+
+
+.insert_box {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 600px;
+    height: 450px;
+	margin: 200px 600px 340px 420px;
+	border-radius:20px;
+}
+
+.insert_box h3 {
+	margin-left:250px;
+	margin-top:40px;
+	margin-bottom:30px;
+}
+
+.insert_box #email {
+	width:400px;
+}
+
+.insert_box #password {
+	width:400px;
+}
+
+.insert_box #name {
+	width:400px;
+}
+
+.insert_email {
+	margin:30px 0 40px 100px;
+}
+
+.insert_password {
+	margin:0 0 40px 100px;
+}
+
+.insert_name {
+	margin:40px 0 50px 100px;
+}
+
+.insert_box p {
+	margin:90px 0 40px 92px;
+}
+
+.insert_box2 {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 300px;
+    height: 300px;
+	margin: 200px 600px 400px 570px;
+	border-radius:20px;
+}
+
+.insert_box2 h3 {
+	margin-left:100px;
+	margin-top:40px;
+	margin-bottom:30px;
+}
+
+.new_login {
+	margin-left:110px;
+}
+
+.insert_box2 p {
+	margin:70px 30px 20px 90px;
+}
+
+.checkbox {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 500px;
+    height: 300px;
+	margin: 60px auto 100px auto;
+	border-radius:20px;
+}
+
+.checkbox h3 {
+	margin-left:200px;
+	margin-top:20px;
+}
+
+.checkbox p{
+	margin-left:20px;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+
+.checkbox_button {
+	display:flex;
+	margin-top:30px;
+}
+.checkbox_button_1 {
+	margin-left:25px;
+}
+
+.checkbox_button_2 {
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.checkbox_button_3 {
+	margin-right:20px;
+}
+
+
+#list {
+	margin-left:130px;
+}
+
+#registration {
+	margin-left:20px;
+}
+
+#out {
+	margin-left:20px;
+}
+
+.checkbox_else p {
+	margin-left:100px;
+	margin-top:80px;
+}
+
+.checkbox_else #return {
+	margin-left:400px;
+	margin-top:30px;
+}
+
+.back_btn {
+	margin-left:200px;
+	margin-top:80px;
+}
+
+.search_box {
+	background-color:#FFFAFA;
+	width: 1000px;
+	height: 18100px;
+	border:solid 5px #222222;
+	border-radius:20px;
+	margin:70px auto 50px auto;
+	border-radius:20px;
+}
+
+.search_box h3 {
+	margin:15px 450px 15px 450px;
+}
+
+.inputs {
+	display:flex;
+}
+.rogu_out_1{
+	margin-left:10px;
+}
+
+.search_input {
+	margin-left:360px;
+	margin-bottom:10px;
+	display:flex;
+
+}
+
+#songtitle {
+	width:142px;
+}
+
+.result{
+	background-color:#FFFAFA;
+	margin:20px 400px 0 400px;
+	width: 1000px;
+	height: 2200px;
+	border:solid 5px #222222;
+	border-radius:20px;
+	margin:70px auto 50px auto;
+}
+
+#result_h3 {
+	margin:40px 450px 10px 425px;
+}
+
+.back {
+	margin-left:700px;
+	margin-bottom:20px;
+	display:flex;
+}
+
+table {
+	background-color:#FFFAFA;
+	margin:10px 100px 50px 100px;
+}
+
+th {
+	background-color:#FFD5EC;
+}
+
+.update1_box {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 600px;
+    height: 600px;
+	margin: 50px 600px 65px 450px;
+	border-radius:20px;
+}
+
+.update1_box h3 {
+	margin:20px 70px 20px 270px;
+}
+
+.update_albumname {
+	margin:15px 0 10px 70px;
+
+}
+
+#update_albumname{
+	width:400px;
+}
+
+.update_songtitle {
+	margin:5px 0 10px 70px;
+}
+
+#update_songtitle {
+	width:405px;
+}
+
+.update_memon {
+	margin:5px 0 0 70px;
+}
+
+#update_memon {
+	width:405px;
+}
+
+.update_day {
+	margin:5px 0 0 70px;
+}
+
+#updateday {
+	width:405px;
+}
+
+.update_image {
+	margin:5px 0 0 70px;
+}
+
+#update_image {
+	width:405px;
+}
+
+.select_btn {
+	display:flex;
+	margin-left:45px;
+}
+
+.update {
+	margin-top:20px;
+	margin-left:480px;
+	margin-bottom:10px;
+}
+
+.update_box2 {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 300px;
+    height: 200px;
+	margin: 50px 600px 140px 550px;
+	border-radius:20px;
+}
+
+.update_box2 h3 {
+	margin:20px 70px 20px 110px;
+}
+
+.update_box2 p {
+	margin-top:40px;
+	margin-left:85px;
+	margin-bottom:30px;
+}
+
+.update_box2 a {
+	margin-top:40px;
+	margin-left:100px;
+	text-decoration:none;
+}
+
+.rogu_out_2 {
+	margin-left:480px;
+}
+
+.rogu_out_3 {
+	margin-left:20px;
+}
+
+.delete_box {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 600px;
+	height: 400px;
+	margin:30px auto 80px auto;
+	border-radius:20px;
+}
+
+.delete_box h3 {
+    margin: 20px 200px 10px 230px;
+}
+
+.delete {
+	margin:30px 0 30px  70px;
+}
+.delete_id {
+	margin:30px 100px 20px 100px;
+}
+
+.delete_email {
+	margin:20px 100px 10px 100px;
+}
+.delete_password {
+	margin:20px 100px 10px 100px;
+}
+
+.delete_name {
+	margin:20px 100px 10px 100px;
+}
+
+.delete_input {
+	margin:20px 100px 10px 250px;
+}
+
+
+.delete_box_next {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 300px;
+	height: 300px;
+	margin:50px auto 125px auto;
+	border-radius:20px;
+}
+
+.delete_box_next h3 {
+	margin:40px 70px 60px  130px;
+}
+
+.delete_box_next p {
+	margin:40px 30px 50px  75px;
+}
+
+.select_complete{
+	display:flex;
+}
+
+.yes_delete {
+	margin-left:55px;
+}
+
+.not_delete {
+	margin-left:10px;
+}
+
+.delete_box_complete a {
+	margin:60px 0 30px  105px;
+	text-decoration:none;
+}
+
+.delete_box_complete {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 300px;
+	height: 300px;
+	margin:50px auto 125px auto;
+	border-radius:20px;
+}
+
+.delete_box_complete h3 {
+	margin:40px 70px 60px  90px;
+}
+
+.delete_box_complete p {
+	margin:40px 30px 50px  120px;
+}
+
+.insert_song_box1 {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 600px;
+    height: 650px;
+	margin: 200px 600px 340px 400px;
+	border-radius:20px;
+}
+
+.insert_song_box1  h3 {
+	margin-left:280px;
+	margin-bottom:30px;
+}
+
+#insert_albumname {
+	width:400px;
+	margin-bottom: 20px;
+}
+
+#insert_songtitle {
+	width:400px;
+	margin-bottom: 20px;
+}
+
+#insert_registration {
+	width:400px;
+	margin-bottom: 20px;
+}
+#insert_image {
+	width:400px;
+	margin-bottom: 20px;
+}
+
+.insert_song_box1  form {
+	margin-left:105px;
+}
+
+.insert_new_song1 {
+	margin-left:170px;
+	margin-top:10px;
+}
+
+.insert_song_box2 {
+	background-color:#FFFFFF;
+	border:solid 5px #2b2b2b;
+	width: 300px;
+    height: 250px;
+	margin: 200px 600px 340px 570px;
+	border-radius:20px;
+}
+
+.insert_song_box2  h3 {
+	margin:30px 90px;
+}
+
+.insert_song_box2  p {
+	margin-top:50px;
+	margin-left:85px;
+	margin-bottom:30px;
+}
+
+.insert_song_box2  a {
+	margin-left:115px;
+	margin-bottom:30px;
+}
+
+.btn {
+  background-color: #333;
+	width:95px;
+	text-align:center;
+	border-radius:20px;
+	text-decoration:none;
+	color: white;
+}
+.btn:hover {
+	letter-spacing: 5px;
+	color: #fff;
+}
